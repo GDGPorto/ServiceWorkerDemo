@@ -1,3 +1,6 @@
+# GDG PORTO 16
+This repo was used in a live-coding session to demonstrate the potential of service workers. It's based on Jake Archibald work which is also the main material of this online course https://www.udacity.com/course/offline-web-applications--ud899
+
 # Wittr
 
 This is a silly little demo app for an offline-first course.
